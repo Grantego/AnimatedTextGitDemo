@@ -1,0 +1,16 @@
+h1 {
+    font-size: 13rem;
+}
+
+
+body {
+    background-color: teal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.letter {
+    transition: color 1000ms;
+}
